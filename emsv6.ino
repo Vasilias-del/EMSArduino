@@ -19,7 +19,7 @@ uint32_t tsLastReport = 0;
 
 // Firebase Credentials
 #define FIREBASE_HOST "elderlymonitoringsystem-2f6b7.firebaseio.com"
-#define FIREBASE_AUTH "89PZLZbP2rhpbxV6pJHKcX2OCpaTm4G5SvGlOids"
+#define FIREBASE_AUTH "your_firebase_auth"
 
 // WIFI Credentials
 const char* ssid = "neyl_2.4G";
